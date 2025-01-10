@@ -71,6 +71,4 @@ Replace `your_script_name.py` with the name of your script file.
 4. **Advanced NLP**: Utilizes the Groq `llama-3.3-70b-versatile` model and Gemini Embedder for intelligent text processing.  
 5. **Search Capabilities**: Allows users to search and interact with the knowledge base dynamically.  
 
----
 
-Let me know if you want to highlight any additional features or make further refinements!
