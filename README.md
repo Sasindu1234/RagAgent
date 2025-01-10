@@ -58,7 +58,7 @@ This agent uses a sample PDF (`ThaiRecipes.pdf`) hosted at `https://phi-public.s
 Run the agent with:  
 
 ```bash  
-python your_script_name.py --new True --user your_user_id  
+python your_script_name.py
 ```  
 
 Replace `your_script_name.py` with the name of your script file.  
